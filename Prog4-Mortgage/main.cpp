@@ -21,7 +21,7 @@ int main()
 	getline(cin, input);
 	if (goodInPut(input))
 	{
-
+		 
 	}
 
 	return 0;
